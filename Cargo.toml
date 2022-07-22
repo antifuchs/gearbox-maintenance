@@ -34,5 +34,5 @@ hhmmss = "0.1.0"
 serde = "*"
 
 [dev-dependencies]
-test-case = "2.1.0"
+test-case = "2.2.1"
 test-log = { version = "0.2.8", features = ["trace"], default-features = false }
